@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="99.122mm" height="110.795mm" version="1.1" style="shape-rendering:geometricPrecision;"
+viewBox="0 0 1756 1963"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[.fil {fill:url(#id0);fill-rule:nonzero}]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="-0" y1="981.515" x2="1756.21" y2="981.515">
+   <stop offset="0" style="stop-opacity:1; stop-color:#6C3D94"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#A13469"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <path class="fil" d="M1732 204c-69,-168 -260,-248 -427,-180 -78,32 -137,91 -171,161 -43,71 -118,223 -257,307 -105,63 -394,31 -437,49 -90,37 -134,140 -97,230 20,49 130,99 176,115 0,0 558,160 558,333 0,86 -66,108 -192,139 -183,44 -480,-42 -480,-42l0 1c-65,-15 -135,-12 -201,15 -168,69 -248,260 -180,427 69,168 260,248 427,180 79,-32 138,-91 172,-161 42,-71 115,-223 254,-306 105,-64 396,-32 439,-50 91,-37 134,-140 97,-230 -20,-50 -131,-100 -178,-116 0,0 -556,-140 -556,-332 0,-86 66,-108 193,-139 183,-44 480,42 480,42l-1 -1c65,16 135,12 202,-15 167,-69 247,-260 179,-427z"/>
+ </g>
+</svg>
